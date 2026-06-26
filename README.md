@@ -94,5 +94,5 @@ Bash
 npm run dev
 The compilation loop will serve at the browser URL displayed by Vite (typically http://localhost:5173)
 
-<img width="1920" height="1080" alt="Screenshot 2026-06-26 132728" src="https://github.com/user-attachments/assets/d7b3b66e-ebc0-422d-84b5-89d5c11d1f62" />
-<img width="1920" height="1080" alt="Screenshot 2026-06-26 132711" src="https://github.com/user-attachments/assets/44dbc511-3946-49f9-966e-63164eb80df5" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-26 132728" src="https://github.com/user-attachments/assets/64683ef1-22db-4a51-b586-a3ddc187cba4" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-26 132711" src="https://github.com/user-attachments/assets/e5cd877b-6cd6-468a-86f5-99a26d1875ca" />
