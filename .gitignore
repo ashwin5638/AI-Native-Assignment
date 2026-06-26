@@ -1,0 +1,7 @@
+node_modules/
+docs-editor.db
+docs-editor.db-shm
+docs-editor.db-wal
+server/uploads/
+dist/
+.vite/
